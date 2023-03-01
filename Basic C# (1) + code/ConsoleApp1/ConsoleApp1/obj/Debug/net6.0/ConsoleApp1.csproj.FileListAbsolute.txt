@@ -1,0 +1,15 @@
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\DRAGISA\Desktop\s.tetratka\Basic C#\Basic C# (1) + code\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
