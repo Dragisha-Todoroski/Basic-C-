@@ -1,0 +1,15 @@
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\bin\Debug\net6.0\DataTypeBranch.SwapNumbers.exe
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\bin\Debug\net6.0\DataTypeBranch.SwapNumbers.deps.json
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\bin\Debug\net6.0\DataTypeBranch.SwapNumbers.runtimeconfig.json
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\bin\Debug\net6.0\DataTypeBranch.SwapNumbers.dll
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\bin\Debug\net6.0\DataTypeBranch.SwapNumbers.pdb
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\obj\Debug\net6.0\DataTypeBranch.SwapNumbers.csproj.AssemblyReference.cache
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\obj\Debug\net6.0\DataTypeBranch.SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\obj\Debug\net6.0\DataTypeBranch.SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\obj\Debug\net6.0\DataTypeBranch.SwapNumbers.AssemblyInfo.cs
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\obj\Debug\net6.0\DataTypeBranch.SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\obj\Debug\net6.0\DataTypeBranch.SwapNumbers.dll
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\obj\Debug\net6.0\refint\DataTypeBranch.SwapNumbers.dll
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\obj\Debug\net6.0\DataTypeBranch.SwapNumbers.pdb
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\obj\Debug\net6.0\DataTypeBranch.SwapNumbers.genruntimeconfig.cache
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.SwapNumbers\obj\Debug\net6.0\ref\DataTypeBranch.SwapNumbers.dll

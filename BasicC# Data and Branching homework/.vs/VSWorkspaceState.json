@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataTypeBranch",
+    "\\DataTypeBranch\\DataTypeBranch.AverageNumber",
+    "\\DataTypeBranch\\DataTypeBranch.RealCalculator",
+    "\\DataTypeBranch\\DataTypeBranch.SwapNumbers"
+  ],
+  "SelectedNode": "\\DataTypeBranch\\DataTypeBranch.SwapNumbers\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

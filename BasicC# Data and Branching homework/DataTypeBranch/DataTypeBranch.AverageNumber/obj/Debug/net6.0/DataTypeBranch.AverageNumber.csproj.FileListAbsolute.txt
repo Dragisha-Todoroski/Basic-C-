@@ -1,0 +1,15 @@
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\bin\Debug\net6.0\DataTypeBranch.AverageNumber.exe
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\bin\Debug\net6.0\DataTypeBranch.AverageNumber.deps.json
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\bin\Debug\net6.0\DataTypeBranch.AverageNumber.runtimeconfig.json
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\bin\Debug\net6.0\DataTypeBranch.AverageNumber.dll
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\bin\Debug\net6.0\DataTypeBranch.AverageNumber.pdb
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\obj\Debug\net6.0\DataTypeBranch.AverageNumber.csproj.AssemblyReference.cache
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\obj\Debug\net6.0\DataTypeBranch.AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\obj\Debug\net6.0\DataTypeBranch.AverageNumber.AssemblyInfoInputs.cache
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\obj\Debug\net6.0\DataTypeBranch.AverageNumber.AssemblyInfo.cs
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\obj\Debug\net6.0\DataTypeBranch.AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\obj\Debug\net6.0\DataTypeBranch.AverageNumber.dll
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\obj\Debug\net6.0\refint\DataTypeBranch.AverageNumber.dll
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\obj\Debug\net6.0\DataTypeBranch.AverageNumber.pdb
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\obj\Debug\net6.0\DataTypeBranch.AverageNumber.genruntimeconfig.cache
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.AverageNumber\obj\Debug\net6.0\ref\DataTypeBranch.AverageNumber.dll

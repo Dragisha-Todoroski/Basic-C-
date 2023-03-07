@@ -1,0 +1,15 @@
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\bin\Debug\net6.0\DataTypeBranch.RealCalculator.exe
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\bin\Debug\net6.0\DataTypeBranch.RealCalculator.deps.json
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\bin\Debug\net6.0\DataTypeBranch.RealCalculator.runtimeconfig.json
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\bin\Debug\net6.0\DataTypeBranch.RealCalculator.dll
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\bin\Debug\net6.0\DataTypeBranch.RealCalculator.pdb
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\obj\Debug\net6.0\DataTypeBranch.RealCalculator.csproj.AssemblyReference.cache
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\obj\Debug\net6.0\DataTypeBranch.RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\obj\Debug\net6.0\DataTypeBranch.RealCalculator.AssemblyInfoInputs.cache
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\obj\Debug\net6.0\DataTypeBranch.RealCalculator.AssemblyInfo.cs
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\obj\Debug\net6.0\DataTypeBranch.RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\obj\Debug\net6.0\DataTypeBranch.RealCalculator.dll
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\obj\Debug\net6.0\refint\DataTypeBranch.RealCalculator.dll
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\obj\Debug\net6.0\DataTypeBranch.RealCalculator.pdb
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\obj\Debug\net6.0\DataTypeBranch.RealCalculator.genruntimeconfig.cache
+C:\Users\DRAGISA\Desktop\c# domasna\Data and Branching homework\DataTypeBranch\DataTypeBranch.RealCalculator\obj\Debug\net6.0\ref\DataTypeBranch.RealCalculator.dll
