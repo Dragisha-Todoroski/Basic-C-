@@ -1,0 +1,15 @@
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\bin\Debug\net6.0\LoopsArrays.StudentGroup.exe
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\bin\Debug\net6.0\LoopsArrays.StudentGroup.deps.json
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\bin\Debug\net6.0\LoopsArrays.StudentGroup.runtimeconfig.json
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\bin\Debug\net6.0\LoopsArrays.StudentGroup.dll
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\bin\Debug\net6.0\LoopsArrays.StudentGroup.pdb
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\obj\Debug\net6.0\LoopsArrays.StudentGroup.csproj.AssemblyReference.cache
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\obj\Debug\net6.0\LoopsArrays.StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\obj\Debug\net6.0\LoopsArrays.StudentGroup.AssemblyInfoInputs.cache
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\obj\Debug\net6.0\LoopsArrays.StudentGroup.AssemblyInfo.cs
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\obj\Debug\net6.0\LoopsArrays.StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\obj\Debug\net6.0\LoopsArrays.StudentGroup.dll
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\obj\Debug\net6.0\refint\LoopsArrays.StudentGroup.dll
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\obj\Debug\net6.0\LoopsArrays.StudentGroup.pdb
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\obj\Debug\net6.0\LoopsArrays.StudentGroup.genruntimeconfig.cache
+C:\Users\DRAGISA\Desktop\c# domasna\LoopsArrays\LoopsArrays.StudentGroup\obj\Debug\net6.0\ref\LoopsArrays.StudentGroup.dll

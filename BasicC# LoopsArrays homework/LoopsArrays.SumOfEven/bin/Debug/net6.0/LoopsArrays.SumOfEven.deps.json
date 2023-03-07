@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LoopsArrays.SumOfEven/1.0.0": {
+        "runtime": {
+          "LoopsArrays.SumOfEven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoopsArrays.SumOfEven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
