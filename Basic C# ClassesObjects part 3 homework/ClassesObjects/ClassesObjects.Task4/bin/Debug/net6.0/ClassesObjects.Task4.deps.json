@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClassesObjects.Task4/1.0.0": {
+        "dependencies": {
+          "ClassesObjects.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ClassesObjects.Task4.dll": {}
+        }
+      },
+      "ClassesObjects.Domain/1.0.0": {
+        "runtime": {
+          "ClassesObjects.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassesObjects.Task4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassesObjects.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
