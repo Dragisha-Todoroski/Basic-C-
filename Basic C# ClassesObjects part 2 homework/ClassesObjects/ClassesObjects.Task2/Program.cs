@@ -71,27 +71,6 @@ void CarAndDriverList(object[] objArr, string name)
     }
 }
 
-void RemoveArrayElement<T>(ref T[] arr, int index) // all elements starting from the chosen element forwards will take the values of the next element; then the array will get minimized by 1, effectively removing the chosen element from the array permanently
-{
-    for (int i = index; i < arr.Length - 1; i++)
-    {
-        arr[i] = arr[i + 1];
-    }
-    Array.Resize(ref arr, arr.Length - 1);
-}
-
-// example steps for easy reference
-
-//int[] intArray = new int[5] { 1, 2, 3, 4, 5 }
-
-//picked intArray[2] // 3
-
-//step 1: intArray[2] = intArray[2 + 1] // {1, 2, 4, 4, 5}
-
-//step 2: intArray[3] = intArray[3 + 1] // {1, 2, 4, 5, 5}
-
-//step 3: Resize Array which removes last element // { 1, 2, 4, 5}
-
 void RestoreArrayElement<T>(ref T[] arr, int index, T element)
 {
     Array.Resize(ref arr, arr.Length + 1);
@@ -114,8 +93,6 @@ int[] CarAndDriverInput()
         Console.WriteLine("Invalid input for Car 1. Shutting down...");
         return null;
     }
-    Car removedCarElement = cars[parsedSelectedCar1 - 1];
-    RemoveArrayElement(ref cars, parsedSelectedCar1 - 1);
 
     CarAndDriverList(cars, "Model");
     Console.WriteLine($"\nSelect Car 2:\n");
@@ -124,11 +101,14 @@ int[] CarAndDriverInput()
     bool selectedCar2Check = int.TryParse(selectedCar2, out int parsedSelectedCar2);
     if (!selectedCar2Check || parsedSelectedCar2 < 1 || parsedSelectedCar2 > cars.Length)
     {
-        RestoreArrayElement(ref cars, parsedSelectedCar1 - 1, removedCarElement);
         Console.WriteLine("Invalid input for Car 2. Shutting down...");
         return null;
     }
-    RestoreArrayElement(ref cars, parsedSelectedCar1 - 1, removedCarElement);
+    if (selectedCar1 == selectedCar2)
+    {
+        Console.WriteLine("Can't choose the same car twice.");
+        return null;
+    }
 
     CarAndDriverList(drivers, "Name");
     Console.WriteLine($"\nSelect Driver 1:\n");
@@ -140,8 +120,6 @@ int[] CarAndDriverInput()
         Console.WriteLine("Invalid input for Driver 1. Shutting down...");
         return null;
     }
-    Driver removedDriverElement = drivers[parsedSelectedDriver1 - 1];
-    RemoveArrayElement(ref drivers, parsedSelectedDriver1 - 1);
 
     CarAndDriverList(drivers, "Name");
     Console.WriteLine($"\nSelect Driver 2:\n");
@@ -150,11 +128,14 @@ int[] CarAndDriverInput()
     bool selectedDriver2Check = int.TryParse(selectedDriver2, out int parsedSelectedDriver2);
     if (!selectedDriver2Check || parsedSelectedDriver2 < 1 || parsedSelectedDriver2 > drivers.Length)
     {
-        RestoreArrayElement(ref drivers, parsedSelectedDriver1 - 1, removedDriverElement);
         Console.WriteLine("Invalid input for Driver 2. Shutting down...");
         return null;
     }
-    RestoreArrayElement(ref drivers, parsedSelectedDriver1 - 1, removedDriverElement);
+    if (selectedDriver1 == selectedDriver2)
+    {
+        Console.WriteLine("Can't choose the same driver twice.");
+        return null;
+    }
 
     int[] storedInputs = new int[4] { parsedSelectedCar1, parsedSelectedCar2, parsedSelectedDriver1, parsedSelectedDriver2 };
     return storedInputs;
