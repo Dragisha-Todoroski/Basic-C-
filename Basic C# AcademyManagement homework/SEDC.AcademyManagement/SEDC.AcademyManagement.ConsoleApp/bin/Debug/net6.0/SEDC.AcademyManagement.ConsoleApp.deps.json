@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEDC.AcademyManagement.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "SEDC.AcademyManagement.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.AcademyManagement.ConsoleApp.dll": {}
+        }
+      },
+      "SEDC.AcademyManagement.Domain/1.0.0": {
+        "runtime": {
+          "SEDC.AcademyManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.AcademyManagement.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.AcademyManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
