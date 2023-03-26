@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CollectionsLinq.Task3/1.0.0": {
+        "dependencies": {
+          "CollectionsLinq.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CollectionsLinq.Task3.dll": {}
+        }
+      },
+      "CollectionsLinq.Domain/1.0.0": {
+        "runtime": {
+          "CollectionsLinq.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CollectionsLinq.Task3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CollectionsLinq.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
