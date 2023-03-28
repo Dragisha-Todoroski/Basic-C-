@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RockPaperScissorsAndWorkingDay.Task2/1.0.0": {
+        "dependencies": {
+          "RockPaperScissorsAndWorkingDay.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RockPaperScissorsAndWorkingDay.Task2.dll": {}
+        }
+      },
+      "RockPaperScissorsAndWorkingDay.Domain/1.0.0": {
+        "runtime": {
+          "RockPaperScissorsAndWorkingDay.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RockPaperScissorsAndWorkingDay.Task2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RockPaperScissorsAndWorkingDay.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
