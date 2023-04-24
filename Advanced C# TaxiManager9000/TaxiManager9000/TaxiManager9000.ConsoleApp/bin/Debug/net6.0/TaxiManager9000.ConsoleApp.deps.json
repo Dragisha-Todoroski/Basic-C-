@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TaxiManager9000.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "TaxiManager9000.Services": "1.0.0"
+        },
+        "runtime": {
+          "TaxiManager9000.ConsoleApp.dll": {}
+        }
+      },
+      "TaxiManager9000.Domain/1.0.0": {
+        "runtime": {
+          "TaxiManager9000.Domain.dll": {}
+        }
+      },
+      "TaxiManager9000.Services/1.0.0": {
+        "dependencies": {
+          "TaxiManager9000.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TaxiManager9000.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaxiManager9000.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxiManager9000.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxiManager9000.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

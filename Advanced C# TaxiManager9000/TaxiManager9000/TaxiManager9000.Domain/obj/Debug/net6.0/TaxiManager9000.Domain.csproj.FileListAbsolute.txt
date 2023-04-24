@@ -1,0 +1,24 @@
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.Domain\bin\Debug\net6.0\TaxiManager9000.Domain.deps.json
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.Domain\bin\Debug\net6.0\TaxiManager9000.Domain.dll
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.Domain\bin\Debug\net6.0\TaxiManager9000.Domain.pdb
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.csproj.AssemblyReference.cache
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.AssemblyInfoInputs.cache
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.AssemblyInfo.cs
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.dll
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\refint\TaxiManager9000.Domain.dll
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.pdb
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\ref\TaxiManager9000.Domain.dll
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.Domain\bin\Debug\net6.0\TaxiManager9000.Domain.deps.json
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.Domain\bin\Debug\net6.0\TaxiManager9000.Domain.dll
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.Domain\bin\Debug\net6.0\TaxiManager9000.Domain.pdb
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.csproj.AssemblyReference.cache
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.AssemblyInfoInputs.cache
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.AssemblyInfo.cs
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.dll
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\refint\TaxiManager9000.Domain.dll
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\TaxiManager9000.Domain.pdb
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.Domain\obj\Debug\net6.0\ref\TaxiManager9000.Domain.dll

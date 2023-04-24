@@ -1,0 +1,40 @@
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.AssemblyInfo.cs
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.ConsoleApp.exe
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.ConsoleApp.deps.json
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.ConsoleApp.runtimeconfig.json
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.ConsoleApp.dll
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.ConsoleApp.pdb
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.Domain.dll
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.Services.dll
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.Services.pdb
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.Domain.pdb
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.csproj.CopyComplete
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.dll
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\refint\TaxiManager9000.ConsoleApp.dll
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.pdb
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.genruntimeconfig.cache
+C:\Users\DRAGISA\Desktop\s.tetratka\Advanced C#\Advanced C#(5) + code\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\ref\TaxiManager9000.ConsoleApp.dll
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.ConsoleApp.exe
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.ConsoleApp.deps.json
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.ConsoleApp.runtimeconfig.json
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.ConsoleApp.dll
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.ConsoleApp.pdb
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.Domain.dll
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.Services.dll
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.Services.pdb
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\bin\Debug\net6.0\TaxiManager9000.Domain.pdb
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.AssemblyInfo.cs
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.csproj.CopyComplete
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.dll
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\refint\TaxiManager9000.ConsoleApp.dll
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.pdb
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\TaxiManager9000.ConsoleApp.genruntimeconfig.cache
+C:\Users\DRAGISA\Desktop\Repo C#\Basic-C-Sharp\Advanced C# TaxiManager9000\TaxiManager9000\TaxiManager9000.ConsoleApp\obj\Debug\net6.0\ref\TaxiManager9000.ConsoleApp.dll
