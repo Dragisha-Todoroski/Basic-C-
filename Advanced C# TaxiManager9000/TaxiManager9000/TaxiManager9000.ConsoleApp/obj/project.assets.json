@@ -45,19 +45,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DRAGISA\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DRAGISA\\Desktop\\Repo C#\\Basic-C-Sharp\\Advanced C# TaxiManager9000\\TaxiManager9000\\TaxiManager9000.ConsoleApp\\TaxiManager9000.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Advanced C# TaxiManager9000\\TaxiManager9000\\TaxiManager9000.ConsoleApp\\TaxiManager9000.ConsoleApp.csproj",
       "projectName": "TaxiManager9000.ConsoleApp",
-      "projectPath": "C:\\Users\\DRAGISA\\Desktop\\Repo C#\\Basic-C-Sharp\\Advanced C# TaxiManager9000\\TaxiManager9000\\TaxiManager9000.ConsoleApp\\TaxiManager9000.ConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\DRAGISA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DRAGISA\\Desktop\\Repo C#\\Basic-C-Sharp\\Advanced C# TaxiManager9000\\TaxiManager9000\\TaxiManager9000.ConsoleApp\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Advanced C# TaxiManager9000\\TaxiManager9000\\TaxiManager9000.ConsoleApp\\TaxiManager9000.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Advanced C# TaxiManager9000\\TaxiManager9000\\TaxiManager9000.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DRAGISA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -71,8 +71,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\DRAGISA\\Desktop\\Repo C#\\Basic-C-Sharp\\Advanced C# TaxiManager9000\\TaxiManager9000\\TaxiManager9000.Services\\TaxiManager9000.Services.csproj": {
-              "projectPath": "C:\\Users\\DRAGISA\\Desktop\\Repo C#\\Basic-C-Sharp\\Advanced C# TaxiManager9000\\TaxiManager9000\\TaxiManager9000.Services\\TaxiManager9000.Services.csproj"
+            "C:\\Users\\ASUS\\Desktop\\Advanced C# TaxiManager9000\\TaxiManager9000\\TaxiManager9000.Services\\TaxiManager9000.Services.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\Advanced C# TaxiManager9000\\TaxiManager9000\\TaxiManager9000.Services\\TaxiManager9000.Services.csproj"
             }
           }
         }
@@ -102,7 +102,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,7 +5,7 @@ namespace TaxiManager9000.Domain.Models
 {
     public class Driver : BaseEntity
     {
-        public Driver(string firstName, string lastName, Shift shift, Car car, string licence, DateOnly licenceExpiryDate)
+        public Driver(string firstName, string lastName, Shift? shift, Car car, string licence, DateOnly licenceExpiryDate)
         {
             Id = _driverCounter;
             FirstName = firstName;
@@ -21,7 +21,7 @@ namespace TaxiManager9000.Domain.Models
         private static int _driverCounter = 1;
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public Shift Shift { get; set; }
+        public Shift? Shift { get; set; }
         public Car Car { get; set; }
         public string Licence { get; set; }
         public DateOnly LicenceExpiryDate { get; set; }
